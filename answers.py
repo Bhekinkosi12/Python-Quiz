@@ -11,13 +11,7 @@ hellohellohellohellohello
 # Q4
 [0, 16, 64]
 
-# Q5
-0
-1
-1
-2
-2
-3
+
 
 # Q6
 no
